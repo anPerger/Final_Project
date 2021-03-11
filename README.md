@@ -13,6 +13,9 @@ examining the description text of the wine review furnished by the tasters to se
 
 # On-The-Bottle Analysis
 
+# Text Analysis
+
+# Additional Considerations
 
 ## Machine Learning
 ![project_info](./Images/machine_learning.png)
